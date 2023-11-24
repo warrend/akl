@@ -15,3 +15,43 @@
   --color-text: #dadada;
   --nav-selected: blue;
 }
+
+html {
+  font-family: 'Libre Caslon Text', serif;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+body {
+  width: 60%;
+  line-height: 1.5;
+  width: clamp(33vw, 700px, 90vw);
+  margin: 0 auto;
+}
+
+/* Normal link */
+a {
+  color: blue; /* Change to your preferred color */
+  text-decoration: none; /* Optional: removes underline */
+}
+
+/* Hovered link */
+a:hover {
+  color: green; /* Change to your preferred color */
+}
+
+/* Focused link, usually accessed by keyboard navigation */
+a:focus {
+  color: orange; /* Change to your preferred color */
+  outline: 1px solid orange; /* Optional: adds an outline to highlight focus */
+}
+
+/* Visited link */
+a:visited {
+  color: purple; /* Change to your preferred color */
+}
+
+/* Active link (while being clicked) */
+a:active {
+  color: red; /* Change to your preferred color */
+}
