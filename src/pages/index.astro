@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+interface Frontmatter {
+	title: string;
+	slug: string;
+	date: string;
+}
+
+const posts = await Astro.glob('./posts/*.md');
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<ul>
+			{posts.map(post => <a href={`/posts/${post.frontmatter.slug}`}><li>{post.frontmatter.title}</li></a>)}
+		</ul>
+	</main>
+</Layout>
+
+<style>
+</style>

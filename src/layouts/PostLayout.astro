@@ -1,0 +1,11 @@
+---
+import Layout from './Layout.astro';
+import { formatDate } from '../helpers';
+const {frontmatter} = Astro.props;
+---
+<Layout title={frontmatter.title}>
+  <h1>{frontmatter.title}</h1>
+  <h2>{formatDate(frontmatter.date)}</h2>
+  <slot />
+</Layout>
+

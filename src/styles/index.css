@@ -1,0 +1,17 @@
+:root {
+  --color-background: #f7f7f7;
+  --color-text: #222;
+  --nav-selected: blue;
+}
+
+[data-theme='light'] {
+  --color-background: #f7f7f7;
+  --color-text: #222;
+  --nav-selected: blue;
+}
+
+[data-theme='dark'] {
+  --color-background: #1d1d1d;
+  --color-text: #dadada;
+  --nav-selected: blue;
+}

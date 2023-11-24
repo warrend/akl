@@ -1,0 +1,20 @@
+---
+layout: ../../layouts/PostLayout.astro
+title: How do we move forward? On Memory, Part 1
+date: 2007-01-25 02:54:00
+slug: how-do-we-move-forward-on-memory-part-1
+---
+
+The Mysterious Flame of Queen Loana by Umberto Eco is a title that I hesitate to bring up. It is the blasted book that I haven’t been able to finish, which I mentioned in my last post. This is distressing for multiple reasons. One is that it bothers me to leave something hanging incomplete. Character flaw or anal retentiveness? Both? Aye. The other reason is because it was incredibly intriguing when I first began. The main character is a man who suffered a stroke and with it lost his episodic, or autobiographical, memory. (“It’s episodic memory that establishes a link between who we are today and who we have been, and without it, when we say I, we’re referring only to what we are feeling now, not to what we felt before…” page 13). An antique bookseller in his sixties, Yambo can remember how to brush his teeth and drive a car, but cannot remember his wife, children, passions or childhood. The book traces his attempt to recover who he was and if that connects to who he is now post-stroke. Please don’t ask me how it turns out because I don’t know. Yet.  
+  
+So I have been thinking about the degree to which our experiences, that turn into memories by the minute, influence who we are right now and the decisions and thoughts we have today. Yambo’s experience is the following: “Whatever feelings I once had were no longer mine. I wondered whether I had ever been religious; it was clear, whatever the answer, that I had lost my soul,” (page 21).  
+  
+Whatever is in my past, good and bad, has shaped the way that I view the world. This is why it makes sense to me that different people understand the world in different ways depending on their experience. It is absolutely frightening to think about not being able to draw upon the past to process what is going on in and around me. In essence, Yambo is in the same position as a baby who has yet to create a framework of understanding. If this happens, is it possible to ever be the “same” person?  
+  
+I have found myself wanting to wish certain parts of my past out of my memory—be it things that hurt so much to remember, or times where I have hurt someone else. But if I honestly think about that, I think most shadows of my past have—for better or worse, I guess—shaped part of my soul, as Yambo puts it. Who are we without our personal story? Does it matter if we remember every word we have ever read, but forget our narrative? One of the most heart wrenching moments in the book is when Yambo talks about his grandson: “I knew all about Alexander the Great, but nothing about Alessandro the tiny, the mine,” (page 20).  
+  
+Romans 8 is making a little more sense to me in light of this: “And we know that in all things God works for the good of those who love him.” I was talking with some friends last night about His transformative power and this is where I see it…taking our pasts and producing a person closer to who we were meant to be, as if He knows who we can be and draws it out. We need to have our pasts to see this transformation and how making it through the moments that seem to take the life out of us are what help us to become as we reflect…and that is a good thing. And for that reason alone, I no longer want to white out the parts of my life I wish I could revise.  
+  
+At the same time, I want to remember the times that have most shaped my soul in a pure, painless (unless you count the heart-hurt of beauty, of course)—the summer air of Ohio, reading Anne of Green Gables and The Chronicles of Narnia, laughing with friends and feeling understood. The sweetness of those memories overwhelms me. I’ll leave you with one more thought from Mysterious Flame: “If you don’t back up, you won’t go forward,” (page 28).  
+  
+And a post-script: It appears that I only read to page 28. I know I teach 12 year olds, but I try not to be as rash as they are—I did read until page 300. I am currently mustering the strength to make it to 450.
