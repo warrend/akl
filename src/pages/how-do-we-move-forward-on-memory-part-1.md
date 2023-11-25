@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: How do we move forward? On Memory, Part 1
 date: 2007-01-25 02:54:00
 slug: how-do-we-move-forward-on-memory-part-1

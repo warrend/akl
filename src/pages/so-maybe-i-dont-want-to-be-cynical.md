@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: So maybe I don't want to be cynical...
 date: 2007-01-20 20:05:00
 slug: so-maybe-i-dont-want-to-be-cynical

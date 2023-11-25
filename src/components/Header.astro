@@ -1,0 +1,55 @@
+---
+import ThemeToggle from './ThemeToggle.tsx';
+
+const links = [
+  {
+    name: "home",
+    url: "/",
+  }, 
+  {
+    name: "about",
+    url: "/we-demand-windows",
+  }
+];
+---
+
+<section>
+  <h1>A Kind of Library</h1>
+  <nav>
+    {links.map(l => {
+      return (
+        <a href={l.url}>{l.name}</a>
+      )
+    })}
+    <ThemeToggle client:load />
+  </nav>
+</section>
+
+<style>
+  h1 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-family: var(--font-secondary);
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    font-family: var(--font-secondary);
+  }
+  nav a {
+    margin-left: 1rem;
+  }
+  nav a:hover {
+    color: var(--color-primary);
+  }
+  section {
+    padding: var(--large) 0;
+    font-size: .85rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85vw;
+    margin: 0 auto var(--large) auto;
+    border-bottom: 1px solid var(--color-border);
+  }
+</style>

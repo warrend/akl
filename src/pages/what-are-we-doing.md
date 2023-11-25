@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: What are we doing?
 date: 2007-01-14 15:29:00
 slug: what-are-we-doing

@@ -4,13 +4,15 @@ export async function getStaticPaths() {
 
   return posts.map(post => ({
     params: {
-      slug: post.frontmatter.slug
+      slug: post.frontmatter.slugName
     },
     props: {
       post
     },
   }))
 }
+
+console.log({ posts })
 
 const { Content } = Astro.props.post
 ---

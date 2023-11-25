@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: Continuing Thoughts On Windows
 date: 2007-01-09 23:41:00
 slug: continuing-thoughts-on-windows

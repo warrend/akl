@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: ../layouts/PostLayout.astro
 title: &quot;We Demand Windows&quot;
 date: 2007-01-06 21:01:00
 slug: we-demand-windows
