@@ -94,10 +94,11 @@ a {
 
 .post a {
   text-decoration: underline;
+  text-decoration-style: dotted;
 }
 
 a:hover {
-  color: var(--color-primary);
+  text-decoration-style: dotted;
 }
 
 a:focus {
