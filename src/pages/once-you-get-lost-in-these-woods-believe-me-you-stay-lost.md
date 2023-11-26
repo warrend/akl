@@ -1,0 +1,26 @@
+---
+layout: ../layouts/PostLayout.astro
+title: &quot;Once you get lost in these woods, believe me, you stay lost.&quot;
+date: 2012-03-10 15:20:00
+slug: once-you-get-lost-in-these-woods-believe-me-you-stay-lost
+---
+
+[![](http://img2.imagesbn.com/images/103190000/103194509.jpg)](http://img2.imagesbn.com/images/103190000/103194509.jpg)_Kafka on the Shore_ by Haruki Murakami was recommended to me in the fall by a friend and then subsequently fell onto my "books to read someday" list that grows every time I walk into a bookstore.  I'm currently trying to read my way through the stack of unread books in my apartment, though, so I forgot about it.  Then, another friend finished it, shoved it in my hands and declared that we must talk about it while it was still on her mind. So I read it.  And then I learned that yet another friend had fallen prey to Murakami.  She and I talked about it while driving upstate a few weeks ago and realized that there are so many lingering questions that cannot be answered with just one read.  
+  
+Kafka on the Shore pulled me in, got me thinking and sort of left me there.  It was the kind of reading experience where you finish a book only to realize you need to turn back to page one and start rereading in order to make sense of it.  That is not to say that I didn't follow the story line, but that once I knew how it ended I realized there were details I had brushed past.  I started doing some research and found that Murakami said in an [interview](http://www.bookbrowse.com/author_interviews/full/index.cfm?author_number=1103): "_Kafka on the Shore_ contains several riddles, but there aren't any solutions provided. Instead, several of these riddles combine, and through their interaction the possibility of a solution takes shape. And the form this solution takes will be different for each reader. To put it another way, the riddles function as part of the solution. It's hard to explain, but that's the kind of novel I set out to write".  
+  
+  
+Set in Japan, the basic plot of the book is of two main characters, a 15 year old boy who has re-named himself Kafka and a sixty-ish man Nakata, whose stories alternate chapters and begin to run closer and closer together.  Kafka has run away from home, fleeing a prophecy his father shared with him.  Nakata, who is somewhat mentally handicapped due to an incident as a child during World War Two, is fleeing a crime he committed, but felt he was led to commit.  Both characters know they are looking for something, but are unable to say exactly what it is and both begin traveling toward the ocean.    
+  
+  
+The whole process of reading this story, and the knowledge that I'll need to reread it, has been on my mind lately.  Especially one sentence that I think encapsulates the entire story and this reading experience.  It is from when Kafka  spends time alone at a new friend's cabin deep in the woods.  His friend warns him to always keep the cabin in view while wandering because "Once you get lost in these woods, believe me, you stay lost, " (116).  
+  
+At once this became a metaphor for my experience reading this story.  Murakami has put together a narrative that is tied together enough where one can discuss substance and meaning, and yet it is loose enough that nothing ever felt definitive.  When my friend and I were talking about it in the car, we kept coming up with more questions and the knowledge that we'd have to go back and reread and re-discuss, reread and re-discuss.  Obviously, we were left longing for our college literature classes and enough free time to nerd out and follow up with all this thinking.  
+  
+I've also done a lot of thinking about how there can be mental places that feel like those woods where one can stay lost.  The sense of being lost isn't necessarily bad or good, but rather frustrating and interesting at the same time.  The existential questions that plague me seem to be telling me that no matter how much I try to read the world around me, there may not be a definitive answer to my questions.  And maybe what I need to remember is to keep a metaphorical cabin in my eyesight so that I can find my way home.  Interestingly, toward the end of the book Kafka finds himself once again in these woods and intentionally goes much deeper into them without the thought of making it back to the cabin.  This narrative development throws a wrench into my thinking pattern and loops me back to the idea that once you are lost in the woods, you stay lost.  
+  
+And sometimes it is easier to to dwell lost than to find a way out.  
+  
+I had another conversation with a friend about changing habits in the context of changing the patterns of poverty that exist.  In the midst of talking about how easy it is for us to point to someone else and say, well, if you changed your spending habits, you wouldn't be in this situation.  But then my friend mentioned that it was easy for us to think like that when we have healthy spending habits, budgeting knowledge and have had a completely different life story.  She compared it to us trying to rid our diets of all sugars, and how much discipline and will power it would take.  Habits of living--much like habits of thinking--are incredibly difficult to break.  
+  
+And so.  I am left with wondering what it would take to find my way out of my metaphorical woods.

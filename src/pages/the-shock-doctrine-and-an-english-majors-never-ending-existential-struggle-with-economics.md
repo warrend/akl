@@ -1,0 +1,26 @@
+---
+layout: ../layouts/PostLayout.astro
+title: The Shock Doctrine and an english major's never ending existential struggle with economics.
+date: 2009-09-12 19:53:00
+slug: the-shock-doctrine-and-an-english-majors-never-ending-existential-struggle-with-economics
+---
+
+www.akindoflibrary.blogspot.com  
+  
+My concession before you read this is that somehow I got away with never taking an economics class. I even got away with linguistics in lieu of statistics or calculus in college. But. Being a literature major enabled me to know pieces the human story. I'm not exactly sure of how to frame what I'm thinking, so bear with me and my apologies if I sound a bit scattered.  
+  
+I am a fan of organization and productive work. I also work for New York City and am fully aware of how inefficient the system is. My hope is always that someday someone will be in charge who not only understands how to run the enormous school system with financial intelligence but who also understands education: children and learning are not equations where you can guarantee an certain outcome because life gets in the way. The variables in my job include broken homes, hormones, poverty, peer pressure, family pressure, teenage angst, the list goes on. But this post isn't just about education.  
+  
+I hate the reality that in our society people are rarely, if ever, the bottom line.  
+  
+While reading [The Shock Doctrine](http://akindoflibrary.blogspot.com/2009/09/shock-doctrine-context-for-my-brain-of.html) I learned of countless examples of the government and the wealthy "shocking" a financial system with the hope that it would eventually create a healthier living environment for people, but that ultimately provided themselves with more wealth while the average person faced with huge struggles to make ends meet and reconfigure themselves in a different world while waiting for it all to get better.  
+  
+In the introduction to the fourth part of the book, Klein includes the following quote: "The worst of times give rise to the best of opportunities for those who understand the need for fundamental economic reform" (Haggard/Williamson). My question is what kind of opportunities are being sought after? Opportunities to make our world sustainable? Opportunities to enable the majority of people to have peaceful, fulfilling lives? Who benefits? "Are they \[free market idealogues\] driven by ideology and faith that free markets will cure underdevelopment...or do the ideas and theories frequently serve as an elaborate rationale to allow people to act on unfettered freedom while still invoking an altruistic motive?" (297).  
+  
+It's not that I don't understand capitalism. Competition and compensation provide motive. Communism failed. But money can't always be the bottom line, even in individual lives: if we accumulate wealth but then spend all of our time working, what is the point? Does a one or two week vacation make up for living life in an office? Having money makes life easier, but doesn't necessarily make life _good_. Good living is laughing with family. Eating with friends. Breathing deeply and looking for the beautiful. I'm sure at this point you may be laughing and calling me naive, old fashioned (or midwestern!) but I'm ok with that.  
+  
+Klein talks a lot about the privatization of government jobs and current government responsibilities and I feel like this quote does a good job explaining my frustrations (from the introduction to chapter 15): "There's something civil servants have that the private sector doesn't. And that is the duty of loyalty to the greater good--the duty of loyalty to the collective best interest of all rather than the interest of a few. Companies have duties of loyalty to their shareholders, not to the country"(David M. Walker, comptroller). Privatization can provide greater efficiency, but is the value of life and the human narrative figured into the equation or just the financial bottom line? I just think that before policies are made, the policy-makers should look at the faces of the people it will affect and hear their stories.  
+  
+I'll close with this: no matter where you fall politically, I feel like this was a highlight of Obama's speech last week:  
+  
+"You see, our predecessors understood that government could not, and should not, solve every problem. They understood that there are instances when the gains in security from government action are not worth the added constraints on our freedom. But they also understood that the danger of too much government is matched by the perils of too little; that without the leavening hand of wise policy, markets can crash, monopolies can stifle competition, and the vulnerable can be exploited. And they knew that when any government measure, no matter how carefully crafted or beneficial, is subject to scorn; when any efforts to help people in need are attacked as un-American; when facts and reason are thrown overboard and only timidity passes for wisdom, and we can no longer even engage in a civil conversation with each other over the things that truly matter – that at that point we don't merely lose our capacity to solve big challenges. We lose something essential about ourselves."

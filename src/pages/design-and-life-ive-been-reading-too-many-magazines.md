@@ -1,0 +1,16 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Design and Life: I've been reading too many magazines
+date: 2008-01-10 00:10:00
+slug: design-and-life-ive-been-reading-too-many-magazines
+---
+
+[![](http://indierocket.com/archive/scandinaviansurface.jpg)](http://indierocket.com/archive/scandinaviansurface.jpg)Somewhere in the past few years I've developed a love of interior home design. Actually that's not true. I made dozens of sketches of my ideal bedrooms growing up and constantly redid how I decorated my high school bedroom (did anyone else go through a phase in middle or high school where every single memory had to be displayed...it exhausts me just thinking about it. I now sympathize with my mom who hated it, but appreciate her letting me go through my various phases of "self-expression") After high school I had a spell of scouring Pottery Barn magazines. It's funny how you can finally land in a place (or space) in life where you can actually define yourself. Interestingly enough, my roommate just came in with pictures of us from 2003-2004. I totally didn't get it then. Scary. But maybe this is the upside of entering the late twenties, as my younger brother so lovingly calls them.  
+  
+If you've known me only pre-(or even early) New York City, this may come as a slight shock, because it certainly did to me. But. I think I can best describe my design taste as Vintage Modern. I'm sure that there is a more "correct" way to describe this that already exists, but it's the best I can do. I kind of see it as a merging of two opposites that work together poetically. I am drawn to objects with histories that whisper stories. But too many or unpurposefully placed and it becomes overwhelming. What I just realized is how much I appreciate clean lines and spaces and color.  
+  
+I crave the creative brainwork it requires to meld these two things together. I had a moment of clarity today when I came to realize that it is essentially the way that I live. I literally live in New York City and breathe in it's energy and diversity, drive and creativity. Figuratively, though, I live in a way that is somewhere in between urban and midwestern. I'm incapable of pulling off that put-together look of city girls, but thinking about it, I'm glad that my midwestern roots are still alive and well. I crave the countryside and the smell of the air after it rains, but can't imagine leaving the vitality and ideas that are the city. I will listen to bluegrass, old country and new country all night and the next Sufjan and then Alicia. My reading is the same way: I could live inside a Jane Austen novel or Jonathan Safron Foer's postmodernism.  
+  
+So. As I mentally decorate the space I don't yet live in, (or even the space I currently inhabit) I plan on a bowl of vintage typeset keys, framed prints of Neruda covers and an antique makeup tray--but placed carefully without clutter so that the objects have purpose, meaning and space that is not impeded upon by an abundance of stuff. Yuck. That word itself is imposing.  
+  
+Anyway. I added some links that I frequent that feed my brain a mixture of the old and new if you feel like browsing. If I ever find the funds to finance any of my brainstorming, maybe I'll post some pictures. Until then, this teacher salary has to rely on imagination.

@@ -5,12 +5,11 @@ const { frontmatter } = Astro.props;
 ---
 
 <Layout title={frontmatter.title}>
-  <small>{formatDate(frontmatter.date)}</small>
-  <h1>{frontmatter.title}</h1>
-  <slot />
+  <div class="post">
+    <small>{formatDate(frontmatter.date)}</small>
+    <h1>{frontmatter.title}</h1>
+    <slot />
+  </div>
 </Layout>
 
-<style>
-
-</style>
 

@@ -1,0 +1,20 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Micah 6:8
+date: 2008-01-15 02:20:00
+slug: micah-68
+---
+
+[![](http://www.harperacademic.com/coverimages/large/0060175400.jpg)](http://www.harperacademic.com/coverimages/large/0060175400.jpg)  
+Reading "The Poisonwood Bible" by Barbara Kingsolver has left my mind running in a million different directions. It is the story of a Baptist minister-turned-missionary from Georgia who takes his wife and 4 daughters with him to the Congo in the late 1950's. What they thought would be one year in Africa followed by a return to "normal life" back home had a drastically different ending. And though the writing at times has a manufactured, over-telling feel, at other times it is quite insightful and poetic. Barbara Kingsolver tells the story from the perspective of the 4 daughters and their mother, each with a distinct voice and personality. But the craft of the writing wasn't what interested me the most. The topics that it addresses fell heavily on my heart, as they overlap a lot of the thinking I've been doing lately. There may be a few posts about this book, just so I can flesh out and process some of my thoughts.  
+  
+Rachel is the oldest daughter and not excited in the least about spending her sixteenth year in Africa. One of her observations early on is in response to learning about the diamond trade and thinking about Marilyn Monroe's exclamation that diamonds are a girl's best friend: "Gee, does Marilyn Monroe even know where they come from? Just picturing her in her satin gown and a Congolese diamond digger in the same universe gave me the weebie jeebies. So I didn't think about it anymore," (127). I considered writing this is the third person, talking about "people" and "Americans" in general, but.  
+  
+I hate that I can walk about my life and forget about what is going on in the rest of the world. Yes, I'll go home and read the New York Times and be reminded. Yes, I'll pray for peace and healing in the world. But what about those who don't have that luxury to forget? I read Rachel's declaration of not wanting to think about the inequities in the world and cringe at her lackadaisical attitude about it, but I have to confess that I share the same one most of the time. I don't want to think about what is going on in the lives of those who face incredible hardship. And when I do, I become so burdened that I don't know how to handle it. But that can't be right.  
+  
+The reader learns early on that the family loses one of the girls to death, but doesn't know who until closer to the end. I won't spoil it for you, but the mother's reaction seems to be what speaks to me the most in this confrontation of my human selfishness: "Once I'd moved our table outside, with my baby laid out upon it, I could see no sense in anything but to bring out the rest. Such a bewildering excess of things we had for one single family, and how useless it al seemed now. I carried out armloads of fabric and wood and metal...and marveled that I'd ever felt comfort in having such things. I needed truth and light, to remember my baby's laughter. This stuff cluttered my way. What a relief, to place it in the hands of women who could carry off my burden. Their industrious need made me light-headed..." (382).  
+  
+I constantly struggle with my desire for more "stuff." And usually my head can be convinced that I don't need it, but somewhere in the greediness of my heart, I can justify it all away. And I don't think I fall into the camp of thinking that having "things" is wrong. I guess I think that it depends on the state of my heart. My pastor talks a lot about when "good things become ultimate things" (which I've referenced many times) and I really just want my ultimate things to be the things that actually have worth beyond their dollar value. Why is it so hard to remember that each day? The only place that seems to shed light on this is the cross and remembering he who gave all for all. Remembering he who forgives. Remembering he who heals and he who says that the story is not over.  
+  
+Micah 6:8  
+Do justly. Love mercy. Walk humbly with your God.

@@ -1,0 +1,14 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Things good for a heart that is beginning to feel like itself again.
+date: 2008-10-25 17:22:00
+slug: things-good-for-a-heart-that-is-beginning-to-feel-like-itself-again
+---
+
+1\. Read books with other people. One thing that drives me crazy about education classes is when they make you teach a class to adults the way you'd talk to children. Inauthentic and stupid. I'm taking a class right now with a woman who I think is the most brilliant reading and writing professional developer ever. In order to study strong readers, she says that we need to challenge ourselves as readers and see what we do when we read hard books. This is s dream for this former English major who longs to talk books with people. We read Kate Atkinson's Case Histories. (This alone was exciting enough...I've realized my love for crime and mystery television in the past few years, but have always stayed away from that genre of books. Atkinson's novel was such a well written crime novel. I highly recommend!) When we sat down to talk about the book with partners at class this week, we were asked to find a page that we'd want to read out loud, a page that we loved and a page that evoked some strong emotion in us. Slowing down and talking about books and good writing deepens the reading process so much. And even though I teach this for a living, reading literature beyond the plotline is one of the most satisfying experiences as a thinker.  
+  
+2\. Look for the good in old favorites. Old Counting Crows is a love of my life and some my most favorite driving music of all time. It took me a long time to purchase their new CD and was initially really disappointed in Saturday Nights Sunday Mornings, despite my love of the album title as the essence of Adam Duritz's song writing. And though I can't listen to the album the whole way through the way I would do with August and Everything After or Recovering the Satellites, there are some quality songs. Please listen to On Almost Any Sunday Morning and When I Dream of Michelangelo. It feels good to want to listen to a Duritz song on repeat again.  
+  
+3\. Reread Favorite Books. I spend too much money on my reading material. I've decided that other than the books I need to read for my class (and unless Foer comes out with something new), I'm going to reread books I love and that were life changing. The first one I picked up was The Secret Life of Bees and it's just so beautiful it makes me want to cry. It reminds me of what is Good. And I refuse to see the movie in fear that it will paint a different picture in my mind. Upcoming reread: The Waves by Virginia Woolf.  
+  
+4\. Pay close attention to the fall and drink your fill of English Breakfast tea.

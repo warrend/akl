@@ -1,0 +1,20 @@
+---
+layout: ../layouts/PostLayout.astro
+title: The Great Gatsby and how the city seen from the Queensboro Bridge changed everything
+date: 2012-10-08 15:37:00
+slug: the-great-gatsby-and-how-the-city-seen-from-the-queensboro-bridge-changed-everything
+---
+
+[![](http://collider.com/wp-content/uploads/THE-GREAT-GATSBY.jpg)](http://collider.com/wp-content/uploads/THE-GREAT-GATSBY.jpg)
+
+Every year I have students join a book club with me (I've written about [World War Two](http://akindoflibrary.blogspot.com/2012/03/maus-and-night-think-through-wwii-and.html) and [Harry Potter](http://akindoflibrary.blogspot.com/search/label/young%20adult%20lit)) and this year I added The Great Gatsby to the list of choices for students who are ready to jump into some more classic, adult literature.  I studied _The Great Gatsby_ in high school, college and graduate school, but those lenses into the story don't seem to quite fit for 8th grade.  Luckily I still have time to think about that, but I also got stuck figuring out how to write about it here: this is not a book review or a literary essay blog, so I went back to [my roots](http://akindoflibrary.blogspot.com/2007/01/we-demand-windows.html) and thought about how the story speaks into life at this moment, and at this moment I am thinking about the city.  My city.  New York.  
+  
+Most New Yorkers with a literary slant in their lives know all the classic lines about where we live, and Fitzgerald's description is one of the best: "The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and all the beauty in the world," (73).  
+  
+This is the New York I like to think about the most: the one that still feels magical 9 years later, the one that offers up perfect autumn dinners eaten at the counter and walks into bookstores on the corner and cafe tables on the sidewalk and life swirling around.  The one that has perfect theaters for rainy Sunday matinees that follow a long brunch at a South African restaurant.  
+  
+And yet. There is also "...a valley of ashes--a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens, where ashes take the forms of houses and chimneys and rising smoke and finally, with a transcendent effort, of men who move dimly and already crumbling through the powdery air," (27).  
+  
+This is the New York that I also think about.  I can be literal and think about the insane amount of trash that we proffer to the sidewalks or the hours lost waiting on a train that has been rerouted for the weekend.  I can calculate the money I have spent in rent over the years or figure out how many pounds of groceries I have carried over x amount of miles.  I weigh these things often these days. Or, more heavily, I can think about the students who walk into city schools coming from families who don't value education and don't see their own worth and a system that doesn't know how to help.  I can think about the men and women who sleep on the streets and the paralyzing feeling of not being able to help as I walk by with my smart phone in hand.  
+  
+I dream a lot about a little house with a fire place on a little piece of land, where life could be quiet and where I could see the sunset every day.  And that may happen still.  But.  Living in a place filled with both beauty and ashes has changed the way I read the world around me--and I don't think I could ever be the same, or shake the feeling that no matter how cozy my life is, whether that is reading my book while homemade tomato sauce is simmering on my stove in my studio apartment or some future multi-room home in my future, there are ashes scattered around me--and that I should never stop looking for ways to help beauty and life to grow among and out of them.

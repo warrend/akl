@@ -1,0 +1,8 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Persepolis.
+date: 2016-12-31 21:43:09
+slug: persepolis
+---
+
+[![](http://akindoflibrary.com/wp-content/uploads/2016/12/imgres-2.jpg)](http://akindoflibrary.com/wp-content/uploads/2016/12/imgres-2.jpg)One of the biggest lessons I try to teach to my students is to read (the world and books) with nuance. It is dangerous to assume that there are only two sides: black/white, right/wrong, good/bad. I first read (and apparently didn't write about) the graphic novel/memoir Persepolis by Marjane Satrapi years ago. The title, Persepolis, is the name of the ancient capital of Iran, which is now in ruins, and represents how Satrapi sees her home--something that was once beautiful and vibrant now in ruins. The book simultaneously tells her story of growing up as a child of avant garde intellectuals in a country changed by the Iranian revolution and tells the story of the nation. One of my reading goals for 2017 is to read more stories that help me understand the diversity of people across the world. If you are interested in this as well, Persepolis is an excellent place to start--it challenges a lot of the assumptions people may have about the inner lives and political beliefs of Iran's citizens. It forces readers to rethink those binary understandings of the world around us. Unfortunately, I am battling a massive head cold as I write this, attempting to finish up before the close of 2016. So I will just leave you with the recommendation to pick up this book that resonates just as loudly as it did when it was originally published in 2000.

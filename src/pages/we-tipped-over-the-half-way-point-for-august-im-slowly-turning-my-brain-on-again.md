@@ -1,0 +1,30 @@
+---
+layout: ../layouts/PostLayout.astro
+title: We tipped over the half way point for august. I'm slowly turning my brain on again.
+date: 2011-08-19 16:30:00
+slug: we-tipped-over-the-half-way-point-for-august-im-slowly-turning-my-brain-on-again
+---
+
+[www.akindoflibrary.blogspot.com](http://www.akindoflibrary.blogspot.com/)  
+  
+I have not written on my blog since June.  I have a list of six blog posts in note form that haven't been fleshed out yet.  Sometimes that is what summer needs to be--not the continual post its of to-do lists.   And now that I am looking at the tail end of August I find myself wanting to process through what this summer was and I'm starting to crave the structure of fall and the mental comfort of post its.  I thought it would be low key and in many respects it has been. But then I reread _A Million Miles in a Thousand Years_ by Donald Miller and realized that my summer has been filled with challenge--in a good kind of way.  It kind of snuck up on me, though.  
+  
+Miller's book came out of what he learned in the process when two guys wanted to turn his book Blue Like Jazz into a movie.  He studied what I call in my classroom the "mountain of action" of a story--exposition, rising action, climax, falling action and resolution and came to the conclusion that people can write better stories for themselves--and the book chronicles his attempt at writing a better one for himself.  
+One of his insights that stuck out to me the most was when he said: "Part of me wonders if our stories aren't being stolen by the easy life," (186).  If the end goal of existence is comfort, then there hasn't been the tension and the challenge and the pain that make a good story worth reading.  I realized as I was reading that this was a lot of my thinking behind a lot of my pursuits this summer--I got scared that I was getting into patterns in my life that were too easy.  
+  
+
+I think it started back in May when my book club decided we were going to read _Infinite Jest_ by David Foster Wallace, all 1079 pages of its tiny print.  We wanted something that would be difficult, something that would make us feel accomplished, something that we probably wouldn't be able to get through on our own.  I used post it notes to set small goals for every 70 pages, which was my weekly goal.  I usually read a book a week and this one took me from June 1st-August 8th.  My feeling of accomplishment waned a little bit when I closed the book and realized that I had a lot of rereading and research to do to make sense of it all.  But.  I'm also the kind of nerd who has been enjoying that process. 
+
+  
+
+Physically, I am half way through training for a half marathon in September.  Even though I've almost always been active, I've never been a strong athlete.  I realized that a large part of my life is doing what I want when I want it, and even though this is rather luxurious, I was pretty sure that wasn't the kind of life I wanted to pursue.  The discipline of getting up and out to run almost every morning and pushing through when I'd rather stop has kicked me in the ass all summer, but in a good way.  I wanted to seek out a big goal that would be difficult (which I have to repeat to myself while running up that cursed gradual hill in Prospect Park).   I'm hoping that this becomes a metaphor for other aspects of life, especially the part about the process, as I'm sure I will not be breaking any records with my race time.  
+  
+Mentally, I'm trying to be committed to a larger writing project that I have been dreaming about for over a year.  I started it last summer and then put it away for the year.  Apparently, it's much easier to watch Netflix Instant for a few hours than it is to sit down, think and write.   I've had my fair share of days where my ideas seem too jumbled and I feel stuck. In fact, that's where I am now.  But.  I'm hoping that I won't give it up just because it is easier to sit on the couch with a book or my laptop or because it is more fun to make plans with friends every night.  
+  
+
+Spiritually, I have been thinking about a life well lived.  I lost my grandma about a month ago.  As I shared that with people, the words that kept coming out of my mouth were that she lived a tremendous 95 years of life.  I love the ridiculous stories that my aunts and uncles and dad share about her from growing up. I love remembering how her stories commanded a room and my cousins and I would just be in awe listening to them.  I love thinking about the gallivanting she did well into her 80s with her sister.  I love that she watched The OC in her 90s and loved the villainous Julie Cooper just as much as my cousins and I did.  I also saw the sacrifices that many of my family members made for her at the end of her life to make sure that she was comfortable and surrounded by people who loved her. I can't help but think that though it was probably one of the most difficult things to do, it is also one of the most admirable. and that there is a huge connection between sacrifice out of love for others and a story well lived.  
+  
+All that to say, I don't want to settle for an easier story. Miller also wrote: "Pain then, if one could have faith in something greater than himself, might be a path to experiencing a meaning beyond the false gratification of personal comfort," (196).   
+  
+  
+The only addendum or way to close this conversation about the notion of challenge is that it is so much more bearable when walked with friends and family.  I have an ongoing conversation with two of my best friends about what the perfect place to live is.  The only place we keep coming back to is anywhere, as long as we're neighbors with good people.  The reading challenges get finished because I read them with a friend.  Running becomes bearable because I have friends reminding me I can do it.  Loss becomes lighter because there is a room full of people who loved the way you did.

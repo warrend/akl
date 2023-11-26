@@ -1,0 +1,18 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Saturday.
+date: 2008-05-31 16:49:00
+slug: saturday
+---
+
+I have to say that I'm writing this under pretty perfect conditions, all things considered. I had planned on spending my Saturday at Central Park with some friends, until the weatherman proved that his predictions were correct: that around 1 pm a major storm would roll into the New York City area. I was able to walk around Prospect Park and enjoy a little bit of my street's block party before everyone ran for cover, and now I sit. My window is open and I'm facing the rain and the lightening with a cup of tea. So.  
+  
+[![](http://ecx.images-amazon.com/images/I/513FG040CXL.jpg)](http://ecx.images-amazon.com/images/I/513FG040CXL.jpg)A few weeks ago I finished Saturday by Ian McEwan. He is also the author of Atonement, which was one of my best reading experiences of last year. So needless to say, I was a little disappointed to have a hard time getting into the plot of this story, which follows an English neurosurgeon through one, whole Saturday. Interestingly enough, by the end, the themes of the book were so interesting that I wished that I had read a bit more closely and considered them throughout. I feel like I should know that by now.  
+  
+The book is mostly about precision: scientific precision, emotional precision and the desire for control over any given situation. McEwan is painstakingly detailed at times, which reveals the persona of our neurosurgeon narrator Henry Perowne. His professional life is difficult yet methodical, scrupulous, sterile yet life-giving, and above all, controlled: "Once a patient is draped up, the sense of personality, and individual in the theatre \[operating room\], disappears. Such is the power of the visual sense."  
+  
+A minor traffic accident changes the course of his entire day and causes Perowne to carefully examine his life, and he struggles to maintain emotional control: "to forget, to obliterate a whole universe of public phenomena in order to concentrate is a fundamental liberty. Freedom of thought." This concept was extremely interesting to me because I feel like we live in a culture where people do try to actively forget things--it is much easier to forget than to deal. I wonder, though, if this forgetting really is freedom? Yes, in an ideal world, our minds wouldn't have to be bothered with our carbon footprint and terrorism and poverty. And yes, sometimes I need to remove myself from the world and be mindless for a little bit. But to forget is to ignore. To sit back.  
+  
+Perowne is trying to compartmentalize the emotions of the human experience scientifically as he reflects on his day. Ironically his son is a jazz musician and his daughter a poet--two specific professions far from the controlled environment of surgery and science. And yet, they both seek out emotional precision...trying to name through words or notes what is so difficult to name; they delve into what cannot be ignored  
+  
+It's difficult to talk at length about this book without everyone having read it, but my bottom line is that to strive for precision in every aspect of life is exhausting. Sometimes you just have to fall into the jazz and the poetry and feel the world around you. But at the end of the day, neither science nor art can be exactly, lastingly precise...and that is ok because the Story of Life does not end with us in charge.

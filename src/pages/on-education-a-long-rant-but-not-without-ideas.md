@@ -1,0 +1,30 @@
+---
+layout: ../layouts/PostLayout.astro
+title: On Education. A long rant, but not without ideas.
+date: 2009-02-17 15:18:00
+slug: on-education-a-long-rant-but-not-without-ideas
+---
+
+[![](http://www.nysut.org/images/content/prek12_070122_ela_survey3.jpg)](http://www.nysut.org/images/content/prek12_070122_ela_survey3.jpg)(My ideal unplanned weekend morning involves drinking tea, reading online news sites and writing. I'm on February break. I'm reading Anna Karenina and I'm only 175 pages in. I've had to find other things to write about. So. Welcome to my brain.)  
+  
+In New York City, there is a huge emphasis on English and Math. My students take a state test for both subjects every year and both departments devote about a month of their curriculum to "test prep." The city and state have had huge initiatives for the collection of student data and data driven lessons. Here are a few disclaimers:  
+  
+1\. I believe in accountability.  
+2\. I am not completely anti testing. I believe there are core skill sets that students should learn before they move to a new grade. I believe that there has to be some kind of way to track whether students are learning these skills sets and that changes should be made if they're not.  
+3\. I am anti high stakes tests that bear too much weight on a single day of a child's life.  
+  
+The city recently told principals that they needed to sit down with every Math and ELA teacher in their building and share a report of their testing record: with the aid of technology, the DOE was able to track how every former student of each teacher did on the state standardized tests and compare them to all other students in the city and to other students in similar schools. I'm not going to lie: I was really nervous about this meeting. Overall, my data was good, but it raised a few red flags in my mind. It said that my middle and high achieving students had improved since the previous year's test. But my high needs students didn't move that much. This. broke. my. heart.  
+  
+My high achievers are going to be fine no matter what. This is why I tell friends of mine that they don't have to worry about sending their not-yet-born children to New York City Public Schools: yes, it takes effort to learn your way around the system and to advocate for your child, but if a student comes from a family of educated parents who value learning, their kids will be fine. So, yes. I have had some brilliant, brilliant kids in the past. And as much as I love them, I'm not as concerned about their educational well being, because I know they are going to be fine.  
+  
+What I worry about is the fact that the students with special learning needs that I taught for 2 years in a row didn't show a lot of growth. This is not to say that I am an amazing teacher, but I busted my butt trying with these kids: I differentiated my lessons. I ran small group conferences according to individual student needs. I tried to get them reading books at their reading level and push them to grow as readers. I swear they did grow as writers from the beginning of the year to the end. So. What isn't working? (And this is the reason why I don't believe that pay should be linked to student achievement on state tests...and why I cringed when I read that was one of the types of programs that would be getting extra money according to Arne Duncan, new Secretary of Education, although I respect him.)  
+  
+And no, I don't just want to rant about how much the system is failing students (though it is). But this is what I think needs to happen if the goal is to improve student reading and writing skills (focusing mostly on large, urban school districts):  
+  
+1\. Literacy skills need to be taught in every subject area. Students do not know how to comprehend large swaths of nonfiction reading passages. Yes, this needs to be addressed in the ELA classroom, but teaching reading skills should be a core part of subject areas that rely on students reading content material. The current conflict is that there is a ridiculous amount of "content" to be covered in these classes, and to teach the kids reading skills is time consuming. But students are leaving without the knowledge of how to read and understand nonfiction.  
+  
+2\. Along the same note, administrators--especially in middle schools--should push for a core use of reading language to be used so that strategies and skills become transparent and transferable to students. The biggest success I did see with my special needs students was when their science teacher and I used the same language: "Write a paragraph the same way you would in ELA." Middle school education is as much about growth and development as it is about teaching skills. Students need to be taught and retaught, reminded of what they already know. Students do not make inter-curricular leaps on their own, as much as I would like them to.  
+  
+3\. School districts need to somehow meet their students' needs where they are (second language learners, grammar deficiencies, etc.) while maintaining a standard of a core curricular base that students need before moving on. This is one reason why I think that at least in theory (I've never worked in one), smaller K-8 schools might be the most successful model in urban areas... especially if the school can be organized to really tailor to student needs. Small group conferences alone cannot fix the subject verb agreement issues that my second language learners have in their writing. Ugh. So frustrating. I feel like I can address the issue with a student, provide some support, but that I am without the time/resources to truly cater to that student's needs.  
+  
+I get really energized thinking about how to change this. I can picture a little, happy school in my head. But a little sad when it seems like the NYCDOE is just a big, dysfunctional system. (And, this didn't even mention the other challenging aspect of creating successful educational experiences: family and community life. Sigh. So big.)
