@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: &quot;There is a gulf between people that one must respect.&quot;
+title: There is a gulf between people that one must respect.
 date: 2011-04-02 17:28:00
 slug: there-is-a-gulf-between-people-that-one-must-respect
 ---

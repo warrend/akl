@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: &quot;Hey guys, it's snowing.&quot;
+title: Hey guys, it's snowing.
 date: 2008-12-09 04:00:00
 slug: hey-guys-its-snowing
 ---

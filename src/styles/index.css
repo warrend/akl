@@ -113,6 +113,10 @@ a:active {
   color: var(--color-text);
 }
 
+img:invalid {
+  display: none;
+}
+
 @media screen and (max-width: 560px) {
   html {
     font-size: 14px;
