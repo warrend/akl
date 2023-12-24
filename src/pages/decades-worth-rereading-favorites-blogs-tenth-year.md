@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: A Decade's Worth: rereading favorites for my blog's tenth year
+title: "A Decade's Worth: rereading favorites for my blog's tenth year"
 date: 2016-01-09 17:01:39
 slug: decades-worth-rereading-favorites-blogs-tenth-year
 ---

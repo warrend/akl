@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Everything was safe and good: transitioning from childhood adulthood
+title: 'Everything was safe and good: transitioning from childhood adulthood'
 date: 2013-12-15 17:26:00
 slug: everything-was-safe-and-good-transitioning-from-childhood-adulthood
 ---

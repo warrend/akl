@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Coping with Violence in Young Adult Fiction: Moving from pat answers to real conversations 
+title: 'Coping with Violence in Young Adult Fiction: Moving from pat answers to real conversations '
 date: 2014-02-16 18:01:11
 slug: coping-violence-young-adult-fiction-nineteen-minutes
 ---

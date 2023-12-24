@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: the  added value  of literature: an amazing op-ed in response to the state ELA test
+title: 'the  added value  of literature: an amazing op-ed in response to the state ELA test'
 date: 2012-04-23 00:03:00
 slug: the-added-value-of-literature-an-amazing-op-ed-in-response-to-the-state-ela-test
 ---

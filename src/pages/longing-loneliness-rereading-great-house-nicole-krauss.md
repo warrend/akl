@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Longing and Loneliness: On Rereading Great House by Nicole Krauss.
+title: 'Longing and Loneliness: On Rereading Great House by Nicole Krauss.'
 date: 2016-10-12 17:45:20
 slug: longing-loneliness-rereading-great-house-nicole-krauss
 ---

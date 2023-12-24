@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Love and duty, passion and indifference: Mutually exclusive?
+title: 'Love and duty, passion and indifference: Mutually exclusive?'
 date: 2009-03-15 19:30:00
 slug: love-and-duty-passion-and-indifference-mutually-exclusive
 ---

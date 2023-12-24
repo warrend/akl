@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Summer (Reading): the most wonderful time of the year.
+title: 'Summer (Reading): the most wonderful time of the year.'
 date: 2016-06-09 20:50:46
 slug: summer-reading-2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Coping with Violence in Young Adult Fiction: Read Nonfiction
+title: 'Coping with Violence in Young Adult Fiction: Read Nonfiction'
 date: 2014-03-01 16:22:55
 slug: coping-violence-young-adult-fiction-research
 ---

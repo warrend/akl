@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Becoming a science nerd: beginner level. 
+title: 'Becoming a science nerd: beginner level. '
 date: 2014-11-22 16:52:35
 slug: tell-toledo-carl-sagan
 ---

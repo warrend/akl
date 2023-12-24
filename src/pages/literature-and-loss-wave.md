@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Literature and Loss: Wave
+title: 'Literature and Loss: Wave'
 date: 2013-10-19 16:28:00
 slug: literature-and-loss-wave
 ---

@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: sometimes the best kind of weekend morning involves:
+title: 'sometimes the best kind of weekend morning involves:'
 date: 2008-11-30 14:47:00
 slug: sometimes-the-best-kind-of-weekend-morning-involves
 ---

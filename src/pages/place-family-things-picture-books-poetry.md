@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Your place in the family of things: picture books and poetry
+title: 'Your place in the family of things: picture books and poetry'
 date: 2015-03-07 16:53:23
 slug: place-family-things-picture-books-poetry
 ---

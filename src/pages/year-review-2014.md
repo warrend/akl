@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Year in Review: 2014
+title: 'Year in Review: 2014'
 date: 2015-01-01 17:35:52
 slug: year-review-2014
 ---

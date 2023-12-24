@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: Introversion: not a bad word! Or, reflections after reading  Quiet  by Susan Cain
+title: 'Introversion: not a bad word! Or, reflections after reading  Quiet  by Susan Cain'
 date: 2013-01-27 16:24:00
 slug: introversion-not-a-bad-word-or-reflections-after-reading-quiet-by-susan-cain
 ---

@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: The magic of paying attention: Mary Oliver's  A Thousand Mornings 
+title: "The magic of paying attention: Mary Oliver's  A Thousand Mornings "
 date: 2013-12-29 16:33:00
 slug: the-magic-of-paying-attention-mary-olivers-a-thousand-mornings
 ---

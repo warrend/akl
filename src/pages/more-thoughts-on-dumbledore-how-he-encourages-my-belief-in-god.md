@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: More thoughts on Dumbledore: How he encourages my belief in God.
+title: 'More thoughts on Dumbledore: How he encourages my belief in God.'
 date: 2007-07-13 20:53:00
 slug: more-thoughts-on-dumbledore-how-he-encourages-my-belief-in-god
 ---

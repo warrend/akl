@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: I believe the world is beautiful and that poetry, like bread, is for everyone (Roque Dalton): Why Poetry is Going to Save Me from Winter.
+title: 'I believe the world is beautiful and that poetry, like bread, is for everyone (Roque Dalton): Why Poetry is Going to Save Me from Winter.'
 date: 2008-11-05 17:23:00
 slug: i-believe-the-world-is-beautiful-and-that-poetry-like-bread-is-for-everyone-roque-dalton-why-poetry-is-going-to-save-me-from-winter
 ---

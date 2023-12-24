@@ -109,10 +109,6 @@ a:visited {
   color: var(--color-text);
 }
 
-a:active {
-  color: var(--color-text);
-}
-
 img:invalid {
   display: none;
 }

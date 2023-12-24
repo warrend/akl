@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: My Year as a Reader: Top Ten Books of 2013
+title: 'My Year as a Reader: Top Ten Books of 2013'
 date: 2013-12-30 20:16:00
 slug: my-year-as-a-reader-top-ten-books-of-2013
 ---
