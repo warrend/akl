@@ -1,0 +1,22 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Feeling September-ish. Or, how Over the Rhine reinvigorated my life last weekend.
+date: 2013-09-15 16:56:00
+slug: feeling-september-ish-or-how-over-the-rhine-reinvigorated-my-life-last-weekend
+---
+
+This post switched directions a number of times as I wrote it this morning.  There are just a lot of big ideas swirling in my brain this week about music and art and words.  The short version is that music and lyrics breathe life into us.  If you want to take the long way around, read on.  
+  
+Perfection, to me, often involves traveling with the right kind of music.  In college, I drove on State Route 73 in southwest Ohio at least three times a week.  Most of the time it was early evening when the light softens or at night--and out there you can see so many stars because Oxford, Ohio is surrounded by farmland.  Since I was in Oxford from September-May, these drives often were accompanied by open windows and the heat on my feet.  And of course, the right kind of playlist.  My car became a sanctuary of sorts that allowed me to have time and space to think by myself and my music--the 5 inch binder of CD options--was what spoke to me.  I'm realizing looking back just how important those moments of listening to music and lyrics was to my mental and emotional health.  Those were the days when music like Over The Rhine and Ryan Adams and Patty Griffin were brand new to me.  I heard Bela Fleck's _Big Country_ for the first time.  The Dixie Chicks threw some attitude into my country music and Nickel Creek pulled me into bluegrass.  
+  
+Since moving to New York ten years ago, my rhythms with music have changed considerably, mostly because one can't take the subway and look out on farmland at the same time.  Ten falls ago I walked with my tea to the Hudson River at Riverside Park seeking healing from homesickness and took the music that felt like home, namely the OTR's _Ohio_ album.  When I moved downtown my river walks and runs changed me along with Iron and Wine and Sufjan Stevens and of course _Drunkard's Prayer_.  When I moved to Brooklyn, I commuted by foot and rotated The Head and the Heart, Fleet Foxes, Alicia Keys, Miranda Lambert through the streets of my neighborhood, along with a heavy dose of _The Long Surrender_.  
+  
+Last March I moved out of the apartment I lived in by myself into one a stone's throw from work. It took me five months to realize that music wasn't playing in the way it once was.  Luckily, this realization came right before a new school year started, and therefore is helping to set the tone for this new season of my life.  September is essentially my new years, after all.  I was lucky enough to escape to Cape Cod during the four days before school started and poetically, Over the Rhine just released their latest album. I knew that to appreciate it fully I needed to hear it not just while doing dishes in my apartment, but away from the city.  I had just read an [article](http://blog.pshares.org/index.php/steal-this-stuff-what-writers-can-learn-from-over-the-rhine/) about their writing process and learned that my life-line song on their last album was inspired by one of my favorite poets, Adam Zagajewski.  I also [read](http://stocki.typepad.com/soulsurmise/2013/09/over-the-rhine-meet-me-at-the-edge-of-the-world.html) how one of the new songs was inspired by Anne Lamott.  It all seemed too perfect a way to start a new year of teaching reading and writing--and to be reflective and writerly along the way.  
+  
+
+[![](http://4.bp.blogspot.com/-kFaiSPUkSSQ/UjXmdc3BSmI/AAAAAAAAAzo/h2KhH0DjTPA/s320/image.jpeg)](http://4.bp.blogspot.com/-kFaiSPUkSSQ/UjXmdc3BSmI/AAAAAAAAAzo/h2KhH0DjTPA/s1600/image.jpeg)
+
+  
+So, I was with kindred music listeners.   We put it on as soon as we got past anything that felt like city life, and my ability to breathe deeply coincided with Karin Berquist's voice and Linford Detweiler's piano and the rapid increase in trees outside my window.  That was when I was reminded of driving on 73 in my home state--where the music and the lyrics hit you right where they need to and your lungs can fill with air again.  
+  
+So all weekend, on near empty beaches, with coffee and Bailey's, and in a hooded sweatshirt I listened to _Meet Me At the Edge of the World_ and felt whole and at home.

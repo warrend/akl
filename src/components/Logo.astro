@@ -1,0 +1,16 @@
+---
+const { color = "black" } = Astro.props
+---
+
+<span>
+  <svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 9.00001C0 4.02945 4.02942 0 9 0H707C711.971 0 716 4.02943 716 9V707C716 711.971 711.971 716 707 716H9C4.02942 716 0 711.971 0 707V9.00001ZM217 147H336V569H217V147ZM499 147H380V569H499V147Z" fill={color} />
+    </svg>
+</span>
+
+<style>
+  span svg {
+    width: 32px;
+    height: auto;
+  }
+</style>

@@ -1,0 +1,21 @@
+---
+layout: ../layouts/PostLayout.astro
+title: The existential questions come round again. Or, lives as novels. Or, justification for an English Degree.
+date: 2009-05-13 16:04:00
+slug: the-existential-questions-come-round-again-or-lives-as-novels-or-justification-for-an-english-degree
+---
+
+This post is based on and quotes a lot of this [Atlantic Monthly article](http://www.theatlantic.com/doc/200906/happiness). The entire piece is incredibly interesting. In it, Joshua Wolf Shenk writes of George Valiant and a longitudinal study that he began in the early forties with 72 men attending Harvard, poised for what most would consider an incredibly successful life. The study offers, as Shenk says, a glimpse into the human condition, wondering if there is a formula—some mix of love, work, and psychological adaptation—for a good life. Following are some of the most interesting excerpts from the article and a few thoughts about them.  
+  
+So many of us think that if we attain x, y and z, then we will have "successful" lives. What was fascinating to me (though not surprising, per se) was seeing in a scientific study the fact that in terms of life satisfaction, people matter over education, wealth: In an interview in the March 2008 newsletter to the Grant Study subjects, Vaillant was asked, “What have you learned from the Grant Study men?” Vaillant’s response: “That the only thing that really matters in life are your relationships to other people.” Being reminded of this always makes me rethink my priorities. My question is if we all know this in the back of our minds, but since relationships can be difficult to maintain, we find ourselves drawn to things more measurable and tangible.  
+  
+The biggest mystery of life that never leaves me alone is the longing...the underlying feeling that all is not right and the ardent desire to have everything make sense...and while it is not measurable in scientific terms, it is almost the essence of the human experience. “Everyone in positive psychology who seeks to explain the mysteries of the psyche wants deeper stuff. George is the poet of this movement. He makes us aware that we’re yearning for deeper stuff.” I always tell my students to avoid using the word stuff. But here, I enjoy the fact that this scientific study needed a person to be its poet; to wonder about the threads that make us all human, the things that make us all feel.  
+  
+Can the good life be accounted for with a set of rules? Can we even say who has a “good life” in any broad way? At times, Vaillant wears his lab coat and lays out his findings matter-of-factly. (“As a means of uncovering truth,” he wrote in Adaptation to Life, “the experimental method is superior to intuition.”) More often, he speaks from a literary and philosophical perspective. (In the same chapter, he wrote of the men, “Their lives were too human for science, too beautiful for numbers, too sad for diagnosis and too immortal for bound journals.) This is one of the greatest parts of the article to me. We are all obsessed with the three points to make us deeper thinkers, or the ten steps for a more meaningful life, or for someone to just tell us what to do so that we can get our lives together. But. We are not wired for that kind of existence and there is beauty, deep deep beauty, in humanity that cannot be contained in rules or generalizations or lists. Sigh.  
+  
+With this level of intimacy and depth, the lives do become worthy of Tolstoy or Dostoyevsky.  
+And this is what I love. It always, for me, comes back to story. All I have wanted to do lately is to read and write. As I was walking around a book store this week, I kept wondering what I am hoping to accomplish by my incessant reading: I have at least ten books at home waiting for me and dozens more I can't wait to read sitting on the shelves of shops. I keep returning to the novel because each one offers a window into humanity. I find myself continually seeking out the story.  
+  
+Perhaps in this, I thought, lies the key to the good life—not rules to follow, nor problems to avoid, but an engaged humility, an earnest acceptance of life’s pains and promises... For all his love of science and its conclusions, he returns to stories and their questions.  
+  
+Sigh. No more words.

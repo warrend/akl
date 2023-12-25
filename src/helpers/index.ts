@@ -25,3 +25,32 @@ export function formatDate(isoString: string | Date) {
 
   return `${months[monthIndex]} ${day}${suffix}, ${year}`;
 }
+
+export function groupByYear(posts: any[]) {
+  const grouped = posts.reduce((acc, post) => {
+    const date = new Date(post.frontmatter.date);
+
+    if (isNaN(date.getTime())) {
+      return acc;
+    }
+
+    const year = date.getFullYear();
+
+    if (!acc[year]) {
+      acc[year] = [];
+    }
+
+    acc[year].push(post);
+    return acc;
+  }, {});
+
+  for (const year in grouped) {
+    grouped[year].sort((a: any, b: any) => {
+      const dateA = new Date(a.frontmatter.date);
+      const dateB = new Date(b.frontmatter.date);
+      return dateB.getTime() - dateA.getTime(); // For descending order
+    });
+  }
+
+  return grouped;
+}

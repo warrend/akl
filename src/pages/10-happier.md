@@ -1,0 +1,8 @@
+---
+layout: ../layouts/PostLayout.astro
+title: 10% Happier 
+date: 2015-01-04 03:15:10
+slug: 10-happier
+---
+
+Creating a space in my mind to slow down. I have never been great at just being still: in nature, I like to be moving, on trains I like to be reading, in cars I like to be listening. The era of the smartphone, while enjoyable in many ways, has only exacerbated this tendency of mine.  Even while waiting in line at the grocery store I find myself reading news on twitter, and before curling up with my book at night, looking at instagram.  My teaching life has grown to be more complex with co-teaching, so much of what used to be sitting and thinking is now sitting and talking.  There have been times in my life where I was much better at stillness--and I want to spend this year cultivating the art of slowing my brain down and breathing a bit deeper.  The need to feel "productive" hinders even the creative pursuits I've picked up in an effort to re-wire my brain: working on a drawing or painting for more than 45 minutes makes me antsy. I have some old favorites (Mary Oliver, Over the Rhine, Anne Lamott) whose work is like a guide and reminder for this kind of journey, but was recently inspired by a book my husband read and loved and has been persistently, gently, trying to get me to read for the past 8 months, 10% Happier by Dan Harris.  Truth be told, I don't love the title, because I feel like a pretty happy person.

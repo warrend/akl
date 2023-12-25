@@ -1,0 +1,18 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Forever/Pete Hamill
+date: 2011-10-29 18:30:00
+slug: foreverpete-hamill
+---
+
+[![](http://kimbofo.typepad.com/.a/6a00d83451bcff69e2011572167acd970b-300wi)](http://kimbofo.typepad.com/.a/6a00d83451bcff69e2011572167acd970b-300wi)My book club recently finished _Forever_ by Pete Hamill.  I was completely taken by the opening parts of the book where the main character, Cormac, is a boy in Ireland in the early 1700s and finds that his family has been pretending to Protestant, and that his mother is Jewish and that his father is Irish--as in following the religion of the Celtic past.  The mythology and magic of him discovering this reminded me of how much I love reading of magical lore and suspending my disbelief.  
+  
+The story took a turn after his mother is accidentally killed and his father outright murdered by the same man, and according to the Celtic law, he must pursue the killer and end his line.  This brings him to New York City, where he meets another mystical character who grants him immortality as long as he doesn't leave the island of Manhattan.  His adventures then take the reader through the history of New York, and though I found myself not loving the plot from this point on, reading about how New York has evolved never gets old to me.  Its history is far from the picturesque village and it never ceases to amaze me that such a dirty city with so many functionality problems has become what it is today.  
+  
+Despite my lack of plot excitement, one part that got me thinking was when Cormac is describing how he dealt with the gift and burden of having all the time in the world.  As mortals with a life span of under 100 years, there is a spirit within us calling us to cherish the time we have.  Life choices can be heart-wrenching because we merely don't have the time to pursue everything we want to do, and there always seems to be a sense of urgency.  Cormac, though, described a mental state of "sludge made up of age, memory, repetition and banality" that his brain had to deal with, precisely because he _did_ have the time to pursue everything.  
+  
+"Then while trying to learn Goethe, he discovered something about himself. When he entered another language, when he tried to absorb its rules, its nounds and verbs, and above all, its rhythms, the sludge in his brain began breaking up...his mind became swifter, his visions more glittering...Learning to paint was learning to live.  The same was true of the piano..." (393-393).  
+  
+Even though we often live with a sense of urgency, the urgency often feels misplaced.  Rushing through tasks that should be done with more care, rushing through dinner or coffee with the person we are across from so that we can get to the next meeting, only to come home and crash.  This is my equivalent of brain sludge.  I live in the tension of needing to crash because my days feel so packed--and watching television or a movie seems like the best way to check out of the harried mental state I carry most of the time.  This, though, feels like a false rest--I don't feel fulfilled.  (But let's be honest, sometimes watching four episodes of Friday Night Lights is life giving.)  
+  
+True rest would be a soul and mind filled.  True rest is not seeing the pursuit of my passions as a task, as I often do at the end of a work day.  Learning better Spanish and writing and cooking and having people over seem like better ways to live well.

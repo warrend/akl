@@ -1,0 +1,76 @@
+---
+import ThemeToggle from './ThemeToggle.tsx';
+import Logo from './Logo.astro';
+
+const links = [
+  {
+    name: "home",
+    url: "/",
+  }, 
+  {
+    name: "about",
+    url: "/we-demand-windows",
+  }
+];
+---
+
+<section>
+  <a href="/">
+    <div class="logo-wrapper">
+      <Logo color="var(--primary600)" />
+      <h1>A Kind of Library</h1>
+    </div>
+  </a>
+  <nav>
+    {links.map(l => {
+      return (
+        <a href={l.url}>{l.name}</a>
+      )
+    })}
+    <ThemeToggle client:load  />
+  </nav>
+</section>
+
+<style>
+  .logo-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  h1 {
+    margin: 0;
+    margin-left: 1rem;
+    font-size: 1.25rem;
+    font-family: var(--font-secondary);
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    font-family: var(--font-secondary);
+  }
+
+  nav a {
+    margin-left: 1rem;
+  }
+
+  nav a:hover {
+    color: var(--color-primary);
+  }
+
+  .active {
+    color: red;
+    font-weight: bold;
+  }
+
+  section {
+    padding: var(--large) 0;
+    font-size: .85rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85vw;
+    margin: 0 auto var(--large) auto;
+    border-bottom: 1px solid var(--color-border);
+  }
+</style>

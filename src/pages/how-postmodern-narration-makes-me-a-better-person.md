@@ -1,0 +1,21 @@
+---
+layout: ../layouts/PostLayout.astro
+title: How Postmodern Narration Makes Me a Better Person.
+date: 2007-07-05 01:10:00
+slug: how-postmodern-narration-makes-me-a-better-person
+---
+
+[![](http://www.qualitytrading.com/illusions/images/oldgirl.gif)](http://www.qualitytrading.com/illusions/images/oldgirl.gif)  
+One of the most heartbreaking things in “Extremely Loud and Incredibly Close” was all of the miscommunication between the characters in the story. One character doesn’t talk, but only writes. Other relationships literally go unfinished. Adults don’t trust children with their innermost thoughts nor children adults, even though both sides feel the resulting disconnect. And I suppose that disconnected really is the best way to describe it because lonesomeness is the only thing that can result, even if one is surrounded by people.  
+  
+I realized how often this has run through my mind when I finished rereading “The Catcher in the Rye” about a month ago and when I started “Gilead” last weekend. Both of them have one narrator who tells the length of the story through his (in both cases) point of view. Therefore, the reader gets a thorough understanding of how he sees the world and the particular situation around him. And this is what I love about literature…the way I can get inside someone else’s head who doesn’t think the way I do.  
+  
+If I look over my reading list from the past six months or so, many of the books I have read have abandoned the notion of having one narrator who tells the story through his or her eyes for multiple narrators who show different interpretations of the same events. It’s almost a trick for keeping the reader on his or her toes. It’s easy to cheer for the narrator when his or her opinion is the only one that you know—as the reader you often see the story with the same convictions and prejudices. The narrator’s heartbreaks and judgements become your own. But what about when you read multiple points of view? When you see two sides of a divorce? When you understand how both the child and the parent feels? When light is cast on a conflict you were convinced could only be seen one way?  
+  
+It is almost as though you have this amazing moment of understanding because you realize that each pair of eyes interprets the world in its own way. All of a sudden you find yourself sympathizing with both sides of a conflict. The conflict becomes secondary to the hearts of the people, the faces, the hearts involved. An issue is no longer black and white.  
+  
+This is an amazing challenge. This kind of reading forces me to consider people. People with individual stories. People with individual feelings. The more I think about it, this is the way that I want to look at the world. Change in any situation is not as likely to happen if you aren’t invested in the people. If I were to look at my students just as a group of 13 year old students, I would miss out on so much, and my teaching would show it. If I keep poverty and injustice as abstract concepts in the back of my mind, that’s all they will remain.  
+  
+So I guess what I’m trying to say is that I love this postmodern take on narration and what it can do with my own thinking. “Extremely Loud and Incredibly Close” deals with the aftermath of September 11th through the eyes of a child who lost his father, his grandmother and his estranged grandfather. Foer pulls the reader in a way that causes the heart to ache with empathy and poetic understanding of how individual people deal with an overwhelming amount of grief. Life almost becomes a little more whole as you take on someone else’s point of view for a while. This is true in real life, too. As far as the miscommunication and disconnect is concerned, the entire time I was reading I was almost shouting at the characters to tell the others about what was actually going on in their heads: “Look at one another and speak what is true! Listen for just a second! Ask him what’s actually going on! Tell him your heart!” Sigh. I always feel the most humbled when fictional characters shout the truth at me.  
+  
+(Recommended books with multiple narrators: Extremely Loud and Incredibly Close, History of Love, Atonement, Inheritance of Loss, The Memory Keeper's Daughter)

@@ -1,17 +1,120 @@
+@import './reset.css';
+@import './theme.css';
+
 :root {
-  --color-background: #f7f7f7;
-  --color-text: #222;
-  --nav-selected: blue;
+  --color-background: var(--grey100);
+  --color-text: hsl(0, 0%, 20%);
+  --color-header-text: #222;
+  --color-primary: var(--primary600);
+  --font-main: 'Libre Caslon Text', serif;
+  --font-secondary: 'Noto Sans', sans-serif;
+  --color-grey: #000;
+  --color-border: #e6e6e6;
 }
 
 [data-theme='light'] {
-  --color-background: #f7f7f7;
-  --color-text: #222;
-  --nav-selected: blue;
+  --color-background: var(--grey100);
+  --color-text: hsl(0, 0%, 20%);
+  --color-header-text: #000;
+  --color-grey: #000;
+  --color-border: #e6e6e6;
 }
 
 [data-theme='dark'] {
-  --color-background: #1d1d1d;
-  --color-text: #dadada;
-  --nav-selected: blue;
+  --color-background: #222;
+  --color-header-text: white;
+  --color-text: #cdcdcd;
+  --color-grey: white;
+  --color-border: hsl(0, 0%, 20%);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    /* other dark mode styles */
+  }
+}
+
+html {
+  font-size: 16px;
+  font-family: var(--font-main);
+}
+
+body {
+  line-height: 1.5;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+main {
+  width: clamp(33vw, 600px, 85vw);
+  margin: 0 auto;
+}
+
+main p {
+  color: var(--color-text);
+  font-size: 1.25rem;
+  line-height: 1.85rem;
+  margin-bottom: 1.88rem;
+}
+
+main img {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto var(--large) auto;
+}
+
+h1 {
+  color: var(--color-header-text);
+  font-size: 1.75rem;
+  line-height: 2.2rem;
+  margin-bottom: 1.75rem;
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+h2 {
+  color: var(--color-grey);
+}
+
+small {
+  font-size: 0.85rem;
+  line-height: 1rem;
+  font-weight: 600;
+  font-family: var(--font-secondary);
+}
+
+/* Normal link */
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.post a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+a:hover {
+  text-decoration-style: dotted;
+}
+
+a:focus {
+  color: var(--color-text);
+}
+
+a:visited {
+  color: var(--color-text);
+}
+
+img:invalid {
+  display: none;
+}
+
+@media screen and (max-width: 560px) {
+  html {
+    font-size: 14px;
+  }
 }

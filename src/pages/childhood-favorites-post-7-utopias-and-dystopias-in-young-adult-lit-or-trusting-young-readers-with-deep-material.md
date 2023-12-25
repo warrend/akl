@@ -1,0 +1,23 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Childhood Favorites Post #7: Utopias and Dystopias in Young Adult Lit, or trusting young readers with deep material
+date: 2010-07-23 17:16:00
+slug: childhood-favorites-post-7-utopias-and-dystopias-in-young-adult-lit-or-trusting-young-readers-with-deep-material
+---
+
+Another overlapping idea that I have found in my re-reading of childhood favorites is the concept of forming "utopias" in books with science fiction slants, _The Giver_ by Lois Lowry and _A Wrinkle in Time_ by Madeleine L'Engle.  Readers learn that the places that were designed to be easy and safe are actually disastrous.  
+  
+
+[![](http://borbonianblogosphere.files.wordpress.com/2009/09/the-giver2.jpg)](http://borbonianblogosphere.files.wordpress.com/2009/09/the-giver2.jpg)
+
+In the world of The Giver, the community was designed to be "extraordinarily safe" and "meticulously ordered."  Emotions are seen as dangerous, so at the onset of puberty, every citizen is given pills to keep the "stirrings" away.  Anything that wasn't practical was done done away with: "the weather made transportation almost impossible at times. It wasn't a practical thing, so it became obsolete when we went to Sameness." The community operates out of the fear of mistakes, out of the fear of bearing pain, sorrow or inconvenience, and in turn sacrifices all of the good as well.  One person in the community, The Receiver, is chosen to hold all of the memories prior to Sameness: pain, color, love, choice.  The Receiver bears all of the knowledge and pain so that the rest of the community doesn't have to.  
+  
+
+[![](http://northchicagopubliclibrary.files.wordpress.com/2009/10/a-wrinkle-in-time-by-madeline-lengle.jpg)](http://northchicagopubliclibrary.files.wordpress.com/2009/10/a-wrinkle-in-time-by-madeline-lengle.jpg)
+
+In _A Wrinkle in Time_, the kids land on a planet called Camazotz to rescue their father.  They feel completely creeped out when everyone seems exactly the same.  Finally they meet IT, who explains:  
+"For you, as well as for the rest of all the happy, useful people on this planet, I, in my own strength, am willing to assume all the pain, all the responsibility, all the burdens of thought and decision.  I am peace and utter rest. I am freedom from all responsibility. To come in to me is the last difficult decision you need ever make."  Charles Wallace attempts to fight IT, but loses and falls under the Camazotz spell as well: "Why do you think we have wars at home? Why do you think people get confused and unhappy? Because they all live in their own, separate, individual lives. I've been trying to explain to you in the simplest possible way that on Camazotz individuals have been done away with.  Camazotz is ONE mind. And that's why everybody's so happy and efficient. "  Creepy!  
+  
+I think that these books have content that is not only interesting for a reader of any age (most of my students read these titles in elementary school and loved them for separate reasons then), but that invites adolescent readers into some serious questions about the nature of life and the decisions that they have to make as 12-13 year olds. For example, despite the initial allure, relinquishing responsibility isn't all it's cracked up to be, and not worth the cost of what you lose.  Middle school is the time when you learn what it means to be more independent and responsible and it is a scary time. Also, these utopian/dystopian books celebrate individuality and I'll be the first to say that in middle school all I wanted to do was to be like everyone else. These characters and conflicts can arm kids with courage.  
+  
+Readers watch characters they love struggle with figuring life out and growing up right before their eyes.  Meg realizes:  "Maybe if you aren't unhappy sometimes you don't know how to be happy." This is a really deep thought for an adolescent (or even pre-adolescent) reader, that I imagine can create amazing book club conversations and even intellectual arguments.  Books like _The Giver_ and _A Wrinkle in Time_ are ones that kids, if they are able to pick up on these threads, will walk away with not only an incredible read, but feeling smarter and feeling changed as a thinker.  Do you remember the first moments when you  realized the world is a lot bigger/deeper/more interesting than you ever thought possible? These books trust kids with intense issues...and I think that kids want to be entrusted; they want the adults in their lives to recognize the capability they have. Of course, different realizations will come at different times for different kids.  That is why I am so excited to hear what my 8th graders have to say about these books in the fall as they reread them.

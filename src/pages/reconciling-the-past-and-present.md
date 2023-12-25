@@ -1,0 +1,18 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Reconciling the past and present.
+date: 2010-07-06 19:52:00
+slug: reconciling-the-past-and-present
+---
+
+This summer marks the seventh year that I've lived in New York City.  When people ask me where I'm from, I've found that I have a variety of answers.  When I was abroad last summer, I said I was from New York.  While in the city, I typically say I'm originally, originally from Long Island, partly because it's so close and partly because it's where I was born, where all my extended family roots and my parents' pasts lie.  I follow that up with the fact that I'm really midwestern, having spent every year of school in southwest Ohio.  Basically, there is never a straight answer and I don't feel fully like myself without mentioning all these aspects of my past. There is a part of me that will always be from Long Island, from Centerville, Ohio and from New York, and I've realized that I feel most like myself when I account for all of these parts.  
+  
+
+[![](http://allthingsuncertain.files.wordpress.com/2008/06/inthewoods-cover.jpg)](http://allthingsuncertain.files.wordpress.com/2008/06/inthewoods-cover.jpg)
+
+Reconciling the past and present and learning how to sift through the layers is one of the biggest conflicts of _In the Woods_ by Tana French. One of the settings of the book is the woods of Knocknaree, a tiny suburb outside of Dubin, Ireland.  In the beginning of the story, a 12 year old girl is found murdered in the woods and the main character Detective Rob Ryan is called in for the investigation. The twist is that Ryan, unbeknownst to anyone but his partner, grew up in Knocknaree and was the sole survivor of a crime that left his 2 best friends missing. He was found covered in blood and without a single memory of what happened.  He has spent the rest of his life essentially forgetting until this case began.  The novel is not only the mystery of the girl who was killed, but also of Ryan's past and his psychological state as he is forced to face all he has left behind. 
+
+  
+Beyond being the site of two horrific crimes, the Knocknaree woods is also in the middle of another conflict: it is the site of an archaeological dig, which is forced to rush because construction for a highway is slated to begin.  French does an impressive job making this story about more than just solving a crime.  The woods becomes symbolic in its vastness, it's darkness and its   The reader, like Detective Ryan, is left wondering should one dig through the past, carefully trying to make sense of it and put the pieces together in a meaningful way or pave over it, moving into the future leaving it all locked underneath cement?  
+  
+The ending, unlike most episodes of The Closer, Law and Order and CSI: NY, is not quite as neat as I have grown accustomed to in my television dabbling or in the pulpy mystery reads I consumed in middle school.  I think French's literary merit in this book is the psychological depth of Detective Ryan and her skill at depicting it within the genre.  He is complex and heartbreakingly human in the decisions that he makes throughout the case as simultaneously faces the past and tries to hide it from others and hide from it himself. I walked away from this book wondering about how he will choose to move forward with all the layers of his past, rather than the satisfaction of figuring out the puzzle.

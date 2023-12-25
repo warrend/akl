@@ -1,0 +1,14 @@
+---
+layout: ../layouts/PostLayout.astro
+title: An artist.
+date: 2009-12-06 20:00:00
+slug: an-artist
+---
+
+[![](http://www.ala.org/ala/mgrps/divs/yalsa/booklistsawards/printzaward/sylvia_web.jpg)](http://www.ala.org/ala/mgrps/divs/yalsa/booklistsawards/printzaward/sylvia_web.jpg)Although I've read Sylvia Plath, I've never really studied her work in depth.  Although I vaguely knew her story of passion, poetry and suicide, I did not read _The Bell Jar_ until I took a class about Literature and Cold War Culture.  It offered a completely different immersion into the era: though McCarthyism and the Rosenburgs linger at the edges of the text, it addresses themes of art, women's roles and depression.  In graduate school I had a four hour writing class once a week where we convinced our teacher that we should go see [Sylvia](http://www.youtube.com/watch?v=rPK5dnE9CS4&feature=related) and discuss it over drinks afterward instead of class.  She agreed so long as we studied and wrote about her poetry in preparation. Done. By the end of all this, I could hold a  decent conversation on her and haven't read much of her since.  
+  
+A lot of my students in Brooklyn are much more intellectual than I ever was in middle school and I'm always trying to find books that will inspire them and sate their curiosity. I heard about _Your Own, Sylvia_ last year at a conference and it has been sitting on my book shelf ever since. I've been trying to do research about young adult literature for girls and various genre writing for kids in general, so I finally picked it up. By the end, I was pretty floored. (See [previous post](http://akindoflibrary.blogspot.com/2009/12/inspired-to-teach-research-in-writing.html) for general overview and style notes.)  Though I am not the primary audience for the book, the research and footnotes were incredibly helpful and the poems the book was written in impressive. But this is not what I want to mainly discuss.  
+  
+I had a few students in mind who I thought would really fall in love with Plath...they are girls who see through the sometimes shallow, always awkward, existence that is middle school.  They read with feminist lenses at the age of 12. As I was reading _Your Own, Sylvia_, I realized that though Plath is different from the average woman in the 1950's in so many ways, she was at core a struggler, just like the rest of us.  She was painfully meticulous, studious and ambitious while at the same time dating multiple people at once and when she married, seemed to fall just behind her husband.  But she wrestled and lived with her heart--and that may be what makes an artist: one who struggles rather than succumbs.  
+  
+And so, I relearned what the world has been trying to make me see for the past seven years or so: that beauty comes from struggle and no one really has their act together. And perhaps that is what the adolescent girls who read this book need to hear most of all.

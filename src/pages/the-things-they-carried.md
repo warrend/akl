@@ -1,0 +1,18 @@
+---
+layout: ../layouts/PostLayout.astro
+title: The Things They Carried.
+date: 2010-06-19 15:42:00
+slug: the-things-they-carried
+---
+
+[![](http://sarahmccoy.files.wordpress.com/2010/01/things_they_carried.jpg)](http://sarahmccoy.files.wordpress.com/2010/01/things_they_carried.jpg)
+
+_The Things They Carried_ by Tim O'Brien has been on my nightstand's "unread" pile for years.  But after reading _All the Broken Pieces_ to my students and realizing how little reading I've done on Vietnam, I was eager to learn more.   Published in 1990, it was a finalist for the Pulitzer.  When I closed the final pages, all I could think was that the book was absolutely. brilliant.  
+  
+History has always come alive for me through literature. I have awful memories of of taking endless notes in my 10th grade Western Civilization class from my teacher's tiny, perfect cursive on an overhead projector.  I was able to memorize and get A's, but I was impassioned by nothing I learned.  My American Literature class, though, is what painted a broad scope for our country's history: seeing the different cultural beliefs, trends and events and then reading what was produced at that time was fascinating.  One of my regrets of college is that I didn't double major in History (but I guess since I changed my major 3 or 4 times, I should just be glad that I made it out in four years), but I feel like studying literature gave me a a desire to keep learning about it. My assignment to teach 7th and 8th grade Social Studies my first year (basically ALL of American history!) also served as a good crash course.  
+  
+All that to say, what is the best way to learn about history, especially wars? Obviously it's a balance of understanding overarching timelines of events, cultural trends and changes, but those remain just facts on the page.  I think it has to come through a variety of lenses while studying the humanities: What music? Whose music? What art? Whose art? What literature?  Whose literature? I am so convinced that we need to be a people who studies and understands history--and the present.  One of the characters comes home from Vietnam to people who had no idea what was going on and no desire to attempt to understand, leaving him feeling utterly alone: "The town could not talk, and would not listen.  The place could only blink and shrug. It had no memory, therefore no guilt.  It was a brisk, polite town.  It did not know shit about shit, and did not care to know (143)."  
+  
+O'Brien's book is a work that makes the reader know.  It declared as a work of fiction, and yet it is filled with stories inspired by what he knows.  His narrative style is brilliant and elusive, one in which the reader never really knows what he actually witnessed and what he fictionalized--which is one of the most artistic craft moves I have ever read.  He explains: "I want you to feel what I felt. I want you to know why story-truth is truer sometimes than happening truth...what stories can do is make things present (179-180)."  
+  
+I've never read this kind of narrative structure and style before.  O'Brien unpacks the complexity of the soldier's experience in a war that they didn't necessarily understand themselves.  The title comes from the opening chapter in which O'Brien lists the literal and figurative items that each solider in the story carried with him.  There is something in one's personal effects that breaks my heart in their pure representation of an individual's humanity.  Basically, this book took my breath away and really, any further attempt to explain it would only take away from it's significance. Please go find a copy immediately.

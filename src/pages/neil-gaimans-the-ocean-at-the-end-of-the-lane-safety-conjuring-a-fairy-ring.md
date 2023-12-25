@@ -1,0 +1,20 @@
+---
+layout: ../layouts/PostLayout.astro
+title: Neil Gaiman's  The Ocean at the End of the Lane, Safety &amp; Conjuring a Fairy Ring
+date: 2013-07-08 16:04:00
+slug: neil-gaimans-the-ocean-at-the-end-of-the-lane-safety-conjuring-a-fairy-ring
+---
+
+[![](http://files.harpercollins.com/WilliamMorrow/Gaiman/ocean2560x1440.jpg)](http://files.harpercollins.com/WilliamMorrow/Gaiman/ocean2560x1440.jpg)
+
+{Harper Collins}
+
+When I was little my imagination ran wild--I have memories of playing pretend for hours: sometimes it was in the school I created in my family's unfinished basement, sometimes it was playing Boxcar Children in the woods across the street, sometimes it was creating a sky-high circus in the tree in my best friend's front yard.  In the daylight, the heroes and protagonists of these imaginary stories always won as if the sunlight could trump anything.  Of course, then, this imagination stretched past my bedtime, when my parents were gone and I was alone in my room, with only my books, blanket, and stuffed animals for protection from the bad guys who lurked in the periphery of my daytime musings.
+
+For these, I made rules I could follow in order to remain safe.  I have no idea if this came out of my tendency to be a rule follower, albeit an adventurous one, as a child or if every child created boundaries of some kind.  My rule, though, that I reminded myself of every night was that the bad guys could only get me if my covers were on exactly half of me.  Exactly.  I knew about symmetry by then.  I knew there was very little chance my covers would ever line up vertically; I made my bed horizontally every morning and clutched my blankets way past my stomach when I curled up at night.  So whether it was pirates or ghosts that were drifting in and out of my pre-slumber worrying, I reminded myself that they couldn't get me and fell asleep confidently.  I remember relying on this more when we had babysitters or when my dad was working nights.
+
+I hadn't thought of this in a while until I was reading Neil Gaiman's newest book *The Ocean at the End*  last week.  (As a sidenote, I devoured it.  I read it while walking on the sidewalk.  I can't wait to discuss it with my Southwest Ohio Ex Pat book club.  In other words: go buy and get lost in it!) The book is about a middle aged man who returns to his hometown and remembers when he was young and his family car was stolen and a man committed suicide inside of it down the street on a neighboring farm.  The nameless protagonist meets the wise-beyond-her-11-years Lettie who lives there and is pulled into a fantastical, terrifying adventure with her as a result.  There is a moment later in the story when Lettie has to go face one of the fantastical creatures and she leaves him at what she calls a fairy ring around a tree and tells him not to leave for anything: "You're safe in the ring...whatever you see, whatever you hear, don't leave it...nothing that wants to hurt you can cross it."
+
+The most fascinating part about this for me as a reader was that the protagonist believed her and as a variety of creatures and beings who look and sound like his family come up to try to coerce him out of the ring, he refuses to do it.  With each one, he pronounces to them the truth he believes: that Lettie told him to stay, that he trusts her, and that he wasn't going anywhere.  And it works. The moment feels so childish, and like I said, reminded me of the logic I had as a small girl.  But maybe that is what it takes.
+
+I started thinking about the different voices I hear in my mind sometimes, asking me to doubt myself and to doubt what I know to be true.  It's amazing how much traction those voices can gain and how easy it is to believe them--and how they can lead me dangerously astray from the person I want to be.  So.  Today I am going to try to create my own fairy ring, my adult version of horizontal sheets.  I want to cast around me the truths I have come to believe and in moments of doubt dispel them--and then stand amazed and thankful when they slink back into the darkness and I can live wholeheartedly again.

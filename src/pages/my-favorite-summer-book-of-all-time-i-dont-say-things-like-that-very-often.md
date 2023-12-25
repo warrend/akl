@@ -1,0 +1,16 @@
+---
+layout: ../layouts/PostLayout.astro
+title: My favorite summer book. Of all time. I don't say things like that very often.
+date: 2010-08-19 19:30:00
+slug: my-favorite-summer-book-of-all-time-i-dont-say-things-like-that-very-often
+---
+
+I've written about The Summer Book [before](http://akindoflibrary.blogspot.com/2008/07/summer-book.html).  I first read it in 2008 and fell in love.  The post is so short because I had no words to describe how much I loved it.  I have recommended it, given it as a gift and reread it every summer since then.  Pure joy. You should be on your way out the door to find a copy by now.  
+  
+Each chapter is a separate vignette style story that distills the essence of summer, childhood and adult sense-and nonsense-ability.  Sophia, her father and her grandmother have an easy way about them, as they live quietly and adventurously all summer. Sophia is six, feisty, and pays attention to all of the small details and mysteries of life for the first time.  Her grandmother is 85, equally feisty and is paying attention to the small details and mysteries of life, but with the kind of wisdom only age can give.  I have found myself falling for the way that Jansson captures Sophia's awakening to life and the endearing patience with a side of crankiness with which Grandmother watches it happen. These are just a few things I was thinking about today as I was reading:  
+  
+In "The Robe," Sophia is going through a "rebellious" stage.  This is the part that makes me love Grandmother with all of my heart: _"...she played cards with grandmother.  The both cheated shamelessly, and their cardplaying afternoons always ended in a quarrel.  This had never happened before. Grandmother tried to recall her own rebellious periods in order to try and understand, but all she could remember was an unusually well behaved little girl.  Wise as she was, she realized that people can postpone their rebellious phases until they're eighty-five years old, and she decided to keep an eye on herself."_   
+  
+In "The Tent," Sophia tries to sleep all night in a tent outside and comes in under the pretense of wanting to hear about her grandmother's experiences in tents. _"A very long time ago, Grandmother had wanted to tell about all the things they did, but no one had bothered to ask. And now she lost the urge...That's strange, Grandmother thought. I can't describe things anymore. I can't find the words, or maybe it's just that I'm not trying hard enough...unless I tell it because I want to, it's as if it never happened; it gets closed off and then it's lost."_  This is kind of random, but this speaks into my writing life: although sometimes a little discipline is required, I've found the best time for me to write about something is the moment in which I am excited about it.  That is when the most passion is conveyed in what I'm trying to say.  It also made me think about how sad it is when stories get lost because the moment it should have been told or written has passed.  
+  
+Jansson does not let the moment pass, though, because this short book crystallizes so much. Seriously. Find a copy. Curl up somewhere summer-y: I'm predisposed to the porch at my parents. A lake would be ideal. And love.

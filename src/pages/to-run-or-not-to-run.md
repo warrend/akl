@@ -1,0 +1,14 @@
+---
+layout: ../layouts/PostLayout.astro
+title: to run or not to run.
+date: 2012-06-04 00:26:00
+slug: to-run-or-not-to-run
+---
+
+[![](http://2.bp.blogspot.com/-9F5BIiFF1RU/TswJtZB9feI/AAAAAAAAIcY/fZJN8ZCEKos/s200/Marriage+Plot.jpg)](http://2.bp.blogspot.com/-9F5BIiFF1RU/TswJtZB9feI/AAAAAAAAIcY/fZJN8ZCEKos/s1600/Marriage+Plot.jpg)
+
+_The Marriage Plot_ is Jeffrey Eugenides' third novel (after _The Virgin Suicides_ and _Middlesex_) which was released last fall. It follows the college and post graduation life and experiences of three characters: Leonard, with a brilliant mind for both science and philosophy, symptoms of manic depression and a heartbreaker reputation; Mitchell, who has been studying religion and mysticism and is the story's moral center of sorts; and Madeleine, an English major who has situated her life between these two men, most often romantically allying herself with Leonard.  The title refers not just to their own stories, but to the literary sub genre of the marriage plot, which Hanna studies in earnest.  The ending of the book reveals Eugenides' take on it, which I enjoyed, but I wasn't super engaged with the overall plot of the story.  
+  
+What was interesting to me, though, was when Mitchell was traveling in India for part of the year following graduation.  While volunteering with Mother Theresa's Missions of Charity in Calcutta, he comes across a man there who was a beekeeper from Arizona, with his wife he was still passionately in love with and their children.  "And out of this perfect life had come the need to break out of it, to bring it into real difficulty, even hardship, in order to relieve the suffering of others."  Mitchell was fascinated by this intentional choice and watched as the beekeeper and the other volunteers served the people of the home as a bit of an outsider.  He had an opportunity to step out of the relatively clean space he had carved out for himself in the home to help a man who needed a bed pan and attempted, but when the mess came and he wasn't sure how to handle it, he literally ran out of the home and left Calcutta.  
+  
+Of course, Mitchell is 22 years old and yet to glean the kind of wisdom that the beekeeper had, so I can't despise him for his act of cowardice.  But it makes me think about how easy it is to talk a good game on the importance of alleviating suffering and walking with people through their pain, but following through is another story.  When it encroaches on one's freedom--time, thought life, expenses both literal and metaphorical--bolting feels like a valid option, especially if you can at least feel good about having tried.  I guess this is all to say that I'm trying to reconfigure my definition of what a good life actually entails--and not merely in word and thought, but in action--not leading a life that is guided solely by comfort and ease, but a willingness to have deeper roots, which will bring both deeper sorrows but also joys.
